@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/go-rqjxrfhb:jenkins-7358e87494d4ed54a7320c3d120200dcc89071bb
+        - image: quay.io/quay_xjiang/go-rqjxrfhb:jenkins-8379a558aac314117631203041570f403e39c85f
           name: container-image
